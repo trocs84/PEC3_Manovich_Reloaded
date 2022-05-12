@@ -44,14 +44,16 @@ Para este proyecto se ha decidido dos temas que se consideran en sintonía a lo 
 
 ---
 
-<center>
+
+---
+
+## Re-descubriendo la hibridacion: AUTOCONDUCCIÓN DE VEHÍCULOS
+ 
+ <center>
 
 ![Coche automático](https://img.freepik.com/vector-gratis/sistema-seguridad-conductor-inteligencia-artificial-interfaz-hud-cabina-automovil-autonomo-sistema-asistencia-al-conductor-automovil-conductor-interior-vehiculo-control-crucero-adaptativo-acc_1150-62856.jpg?t=st=1652258188~exp=1652258788~hmac=a1214fd24fd187250dbfe4f7cc21284698757c880093ef40aa1215be1ae3fa07&w=900 "<a href='https://www.freepik.es/vectores/interfaz-futurista'>Vector de interfaz futurista creado por jcomp - www.freepik.es</a>")
 </center>
 
----
-
-#### Re-descubriendo la hibridacion: AUTOCONDUCCIÓN DE VEHÍCULOS
 
 Aunque todavía lejos de una realidad para este apartado, ya se está avanzando con muchas pruebas y hasta recorridos reales (aunque con una perspectiva ligeramente remota de momento).
 Cabe destacar que no es blanco o negro, es decir hay conductor o no hay conductor, si no que hay un desarrollo a lo largo de nuestra historia seccionada en seis niveles.
@@ -80,12 +82,14 @@ Todo ello queda “softwarizado” hibridando todo ello hacia un mismo punto bau
 
 - - -
 
-<center>
+
+
+## Re-descubriendo la hibridacion: RELOJ SMARTWATCH
+ 
+ <center>
 
 ![SmartWatch](https://img.freepik.com/vector-gratis/diseno-fondo-reloj-inteligente_1283-15.jpg?3&t=st=1652348633~exp=1652349233~hmac=b2aab309d3765deff19989f958f1ee2ecec4f472327960b2265cfffe41ee0931&w=740 "'https://www.freepik.es/vectores/reloj-inteligente'>Vector de reloj inteligente creado por hanggorocandra")
 </center>
-
-#### Re-descubriendo la hibridacion: RELOJ SMARTWATCH
 
 
 En esta hibridación es una realidad, algo común en nuestra sociedad y es que un reloj inteligente es un reloj con funciones que van más allá de los relojes tradicionales. El primer modelo realizaba funciones muy básicas, todo ello en una pantalla táctil que se operaba con un pequeño puntero que se sacaba de la hebilla de la correa,  como si fuera un agente secreto, pero poco a poco fue avanzando.
