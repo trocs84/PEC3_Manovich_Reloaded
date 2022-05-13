@@ -162,6 +162,10 @@ Como anteriormente se ha puntualizado los nuevos medios son la simiente de una h
 
 
 * reloj inteligente creado por hanggorocandra ----  <a href='https://www.freepik.es/vectores/reloj-inteligente'>Vector de reloj inteligente creado por hanggorocandra - www.freepik.es</a>
+ 
+ * Vector de juntos creado por pch.vector ----  <a href="https://www.freepik.es/vectores/juntos">Vector de juntos creado por pch.vector - www.freepik.es</a>
+ 
+ 
 
 </p>
 
